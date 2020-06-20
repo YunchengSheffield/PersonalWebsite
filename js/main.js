@@ -86,7 +86,7 @@ $(document).ready(function($) {
 			}
 		})
 	};
-	burgerMenu();
+	//burgerMenu();
 	
 	var counter = function() {
 		
