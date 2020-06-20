@@ -182,7 +182,6 @@ $(document).ready(function($) {
     fixedContentPos: false
   });
 
-   
    $('#appointment_date').datepicker({
 	  'format': 'm/d/yyyy',
 	  'autoclose': true
