@@ -200,6 +200,5 @@ $(document).ready(function($) {
 	};
 	pageProgress();
 
-
 });
 
