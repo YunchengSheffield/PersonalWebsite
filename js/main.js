@@ -6,7 +6,7 @@
 $(document).ready(function($) {
 
 	"use strict";
-
+	
 	$(window).stellar({
     responsive: false,
     parallaxBackgrounds: true,
@@ -86,7 +86,7 @@ $(document).ready(function($) {
 			}
 		})
 	};
-	//burgerMenu();
+	burgerMenu();
 	
 	var counter = function() {
 		
@@ -199,6 +199,5 @@ $(document).ready(function($) {
 
 	};
 	pageProgress();
-
 });
 
